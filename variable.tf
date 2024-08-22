@@ -16,8 +16,8 @@ variable "instance_detail" {
   }
 }
 
-# Boolean variable
-variable "pass" {
-  type    = bool
-  default = true
-}
+# # Boolean variable
+# variable "pass" {
+#   type    = bool
+#   default = true
+# }
