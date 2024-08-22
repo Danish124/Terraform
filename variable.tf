@@ -11,7 +11,7 @@ variable "ec2_resource" {
 variable "instance_detail" {
   type = map(string)
   default = {
-    "ami"           = "ami-gfjfnnhjdfnvdf"
+    "ami"           = "ami-0522ab6e1ddcc7055"
     "instance_type" = "t2.micro"
   }
 }
